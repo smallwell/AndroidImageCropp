@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AndroidImageCropp" >
+
+    <com.xsmallwell.wang.androidimagecropp.CutImageView
+        android:id="@+id/cropping_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <Button
+        android:layout_marginBottom="20dp"
+        android:background="#87CEFA"
+        android:id="@+id/bt_cropping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Cropping" />
+    
+    <TextView 
+        android:layout_centerHorizontal="true"
+        android:text="拖动四条边界调整裁剪大小，\r\n点击确定后获取采取新bitmap\r\n当选择区域超过原图时候不会截取\r\nby:wang_xiaohao\r\n-_-"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        />
+
+    <Button
+        android:id="@+id/bt_select_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="SelectImage"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="bg_color">#C5F7C4</color>
+    <color name="btn_text_selected">#99CCFF</color>
+    <color name="btn_text_normal">#FFF</color>
+    <color name="btn_text_disabled">#777</color>
+    <color name="btn_stroke">#000</color>
+    <color name="btn_stroke_disabled">#444</color>
+    <color name="btn_stroke_disabled_focused">#69F</color>
+    <color name="btn_stroke_focused">#69F</color>
+    <color name="btn_overlay_blue">#756699FF</color>
+    <color name="btn_grey_dark_disabled">#555555</color>
+    <color name="btn_grey_light_disabled">#666666</color>
+    <color name="btn_grey_dark">#333</color>
+    <color name="btn_grey_light">#666</color>
+    <color name="btn_blue_light">#9CF</color>
+    <color name="btn_blue_dark">#36C</color>
+    <color name="btn_green_dark">#093</color>
+    <color name="btn_green_light">#6F9</color>
+    <color name="transparents">#9000</color>
+    <color name="br_color_font">#176b8b</color>
+    <color name="br_color_bg">#DFF1F4</color>
+    <color name="bt_color_font">#984107</color>
+    <color name="bt_color_rbg">#FEE2CA</color>
+    <color name="is_color_font">#2f4e04</color>
+    <color name="is_color_pn">#8a141b</color>
+    <color name="tr_top_des">#880c26</color>
+    <color name="btnv_color">#b24f0d</color>
+    <color name="cp_pop">#FFFEEF</color>
+    <color name="text_blue">#0000ff</color>
+    <color name="text_red">#FF0000 </color>
+    <color name="bg_black">#262626</color>
+    <color name="bg_white">#EBEBEB</color>
+    <color name="box_info_iteam_text">#4D4D4D</color>
+    <color name="bg_red">#ff0000</color>
+    <color name="bg_green">#00ff00</color>
+
+</resources>
